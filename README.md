@@ -1,3 +1,1 @@
 #renombrando-rama
-
-Hola *o*
